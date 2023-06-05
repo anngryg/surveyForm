@@ -1,0 +1,51 @@
+html {
+    font-family: arial;
+    background-image: url("background.jpg");
+}
+
+body {
+    padding-top: 20px;
+    padding-left: 190px;
+    padding-right: 150px;
+    padding-bottom: 20px;
+    margin-top: 60px;
+    margin-left: 210px;
+    margin-right: 210px;
+    margin-bottom: 60px;
+    background-color: rgba(215, 247, 223, 0.89);
+    font-size: 17px;
+    line-height: 28px;
+}
+
+h1, p {
+        text-align: center;
+        color: rgb(2, 2, 2);
+        line-height: 50%;
+}
+
+p {
+    font-size: 13px;
+    font-style: italic;
+}
+
+input[type=text]{
+    width: 70%;
+    background-color: rgb(104, 122, 109);
+    color: rgb(255, 255, 255);
+}
+
+input[type=email]{
+    width: 70%;
+    background-color: rgb(104, 122, 109);
+    color: rgb(255, 255, 255);
+}
+
+input[type=number] {
+    background-color: rgb(104, 122, 109);
+    color: rgb(255, 255, 255);
+}
+
+textarea {
+    background-color: rgb(104, 122, 109);  
+    color: rgb(255, 255, 255);
+}
